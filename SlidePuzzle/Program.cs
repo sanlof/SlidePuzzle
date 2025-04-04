@@ -30,7 +30,7 @@ Console.ResetColor();
 /* ---------------------------------- New Puzzle -----------------------------------------*/
 
 Puzzle puzzle = new();
-//puzzle.ShufflePuzzle();
+puzzle.ShufflePuzzle();
 
 while (!puzzle.IsPuzzleSolved()) // keep the loop running 'til the puzzle is solved
 {
