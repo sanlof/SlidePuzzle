@@ -9,7 +9,7 @@ Made as a school assignment. Language: Swedish.
 </div>
 
 ## Want to try it?
-Download Rider. Open file. Run program in the console.
+Download Rider. Download this project. Open project in Rider. Run program in the console.
 
 ## Having trouble solving? 😵
 
